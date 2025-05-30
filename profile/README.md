@@ -13,7 +13,8 @@
 Galaxy S25 (Snapdragon 8 Gen 3)와 Qualcomm AI Hub를 기반으로  
 모든 AI 처리를 On-Device에서 수행하여 빠르고 안전한 기능을 제공합니다.
 
-![phone](images/phone.png)
+![image](https://github.com/user-attachments/assets/2239b22a-8269-4471-bf89-2ae2d77f1ed0)
+
 
 ---
 
@@ -21,13 +22,15 @@ Galaxy S25 (Snapdragon 8 Gen 3)와 Qualcomm AI Hub를 기반으로
 
 서비스의 전체 구성 및 On-Device AI 연산 흐름은 아래와 같습니다.
 
-![structure](images/structure.png)
+![image](https://github.com/user-attachments/assets/dd6bccc3-1db0-41c7-bc5f-6336159c4a1c)
+
 
 ---
 
 ## 📌 주요 기능
 
-![pamphlet](images/pamphlet.png)
+![image](https://github.com/user-attachments/assets/57a9cc50-a18d-4664-b0e3-eb118d91743e)
+
 
 
 ### 📍 SmartTag  
