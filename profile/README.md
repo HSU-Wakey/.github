@@ -10,7 +10,7 @@
 자연어 기반 검색과 인생 타임라인 생성을 통해  
 사용자의 추억을 쉽고 체계적으로 관리할 수 있는 스마트 앨범 서비스입니다.
 
-Galaxy S25 (Snapdragon 8 Gen 3)와 Qualcomm AI Hub를 기반으로  
+Samsung Galaxy S25 (Snapdragon 8 Gen 3)와 Qualcomm AI Hub를 기반으로  
 모든 AI 처리를 On-Device에서 수행하여 빠르고 안전한 기능을 제공합니다.
 
 ![image](https://github.com/user-attachments/assets/2239b22a-8269-4471-bf89-2ae2d77f1ed0)
