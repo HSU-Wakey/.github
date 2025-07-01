@@ -1,10 +1,10 @@
-# 📱 Wakey : On-device AI 기반 인생발자취 및 스마트앨범 서비스 with Qualcomm
+# 📱 Wakey : On-device AI 기반 인생발자취 및 스마트앨범 서비스 
 
-👉 **앱 시연 영상** : https://youtu.be/GG55KUtXJIg  
+<img src="https://github.com/user-attachments/assets/83fca8ff-6e54-4e5f-ad05-26700bac9479" width="14"> **앱 시연 영상** : https://youtu.be/GG55KUtXJIg
 
----
+<br>
 
-## 📸 프로젝트 소개
+## <img src="https://github.com/user-attachments/assets/15ac8871-20b3-4834-95ad-e3b2ea3c4210" width="100">  프로젝트 소개
 
 **Wakey**는 On-device AI 기반으로 사진을 자동 태그하고,  
 자연어 기반 검색과 인생 타임라인 생성을 통해  
@@ -14,7 +14,7 @@ Galaxy S25 (Snapdragon 8 Gen 3)와 Qualcomm AI Hub를 기반으로
 모든 AI 처리를 On-Device에서 수행하여 빠르고 안전한 기능을 제공합니다.
 
 ![image](https://github.com/user-attachments/assets/2239b22a-8269-4471-bf89-2ae2d77f1ed0)
-
+<br>
 
 ---
 
@@ -23,7 +23,7 @@ Galaxy S25 (Snapdragon 8 Gen 3)와 Qualcomm AI Hub를 기반으로
 서비스의 전체 구성 및 On-Device AI 연산 흐름은 아래와 같습니다.
 
 ![image](https://github.com/user-attachments/assets/dd6bccc3-1db0-41c7-bc5f-6336159c4a1c)
-
+<br>
 
 ---
 
@@ -97,4 +97,10 @@ On-Device AI 기반으로 빠르고 정확한 검색 제공
 - **팀** : 12팀 Wakey
 - **팀원** : 2271134 양준영(팀장), 2071038 남윤창, 2271414 최은서, 2271102 강민서  
 - **프로젝트명** : Wakey Wakey
-- **소속** : 2025 캡스톤디자인 퀄컴  
+- **소속** : 2025 캡스톤디자인 퀄컴
+
+---
+<br>
+
+## Poster
+[![Youtube](https://github.com/user-attachments/assets/2fa993c3-8708-427c-bc36-3c395bb3264f)](https://youtu.be/GG55KUtXJIg)
